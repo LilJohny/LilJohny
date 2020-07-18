@@ -36,7 +36,7 @@ Other big theme I`m really in is Data Science, ML and AI.
 
 ###  🔭 Some of my interesting projects you can find here...
 * HTMLCSS
-  * This project is web-site that tells about how to learn HTML and CSS basics. I did this to learn and practice HTML and CSS. If ypu are seeking for good example of [11ty](https://www.11ty.dev) project or inspiration for own designs, check this out. [Go to repository](https://github.com/LilJohny/HTMLCSS)
+  * This project is a web-site that tells about how to learn HTML and CSS basics. I did this to learn and practice HTML and CSS. If you are seeking a good example of [11ty](https://www.11ty.dev) project or inspiration for your designs, please, check this out. [Go to repository](https://github.com/LilJohny/HTMLCSS)
 * Shorty [Go to repository](https://github.com/LilJohny/Shorty)
 * NotebookFanControl [Go to repository](https://github.com/LilJohny/NotebookFanControl)
 * TODO [Go to repository](https://github.com/LilJohny/ucu*todo)
