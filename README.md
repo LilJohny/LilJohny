@@ -29,7 +29,7 @@ Now I want to get deeper knowledge in this programming languages:
 * C++
 * TypeScript
 
-And learn Swift programming language and development for Apple devices in general.
+And learn Swift programming language and development for Apple devices in general.<br/>
 Other big theme I`m really in is Data Science, ML and AI.
 
 ---
