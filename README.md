@@ -11,26 +11,26 @@ my name is Denys Ivanenko, and I am currently a computer science student at Ukra
 ---
 
 ###  🔭 Some of my interesting projects you can find here...
-* HTMLCSS
+* `HTMLCSS`
   * This project is a web-site that tells about how to learn HTML and CSS basics. I did this to learn and practice HTML and CSS. If you are seeking a good example of [11ty](https://www.11ty.dev) project or inspiration for your designs, please, check this out. <br/>[Go to repository](https://github.com/LilJohny/HTMLCSS)
-* Shorty
+* `Shorty`
   * This project is a program that can shorten any piece of text by selecting the most significant sentences. It provides PyQT UI and looks pretty good and easy to use. If you are interested in TextRank algorithm or PyQt, you are welcome to check it out. <br/> [Go to repository](https://github.com/LilJohny/Shorty)
-* NotebookFanControl
+* `NotebookFanControl`
   * This repository is not a project developed by me. Here I store compiled for Ubuntu18.04 [nbfc](https://github.com/hirschmann/nbfc). This program gives you ability to tune your fans speed in a very precise way. Since I used to switch Ubuntu and .Net versions frequently, it was a headache to compile nbfc every time I have a fresh Ubuntu installed. I found out that the compiled version works also on newer distributions of Ubuntu. Check this if you need to tune fans speed of your laptop, that runs Ubuntu. <br/>
    [Go to repository](https://github.com/LilJohny/NotebookFanControl)
-* TODO
+* `TODO`
   * This project is just clear and concise implementation of `TODO List` web-app. I did it to learn JS, so if you are learning JavaScript too, you can be interested to check this. <br/>[Go to repository](https://github.com/LilJohny/ucu*todo)
-* Tetris 
+* `Tetris`
   * This project is a classic Tetris game implemented on the web. I had a lot of fun while was testing it. Despite the educational purposes, you can check it to have some fun. <br/> [Go to repository](https://github.com/LilJohny/Tetris)
-* GooglePlayResearch 
+* `GooglePlayResearch`
   * This project is research on Google Play store data, that I  did with my mates to get some insights and practice our data science skills. You are welcome to check it if you are interested in our insights or in Data Science in general. <br/> [Go to repository](https://github.com/LilJohny/GooglePlayResearch)
-* NumbersGame 
+* `NumbersGame`
   * This project is pretty complex 2d game, that will teach player about different types of numbers. Playing it is fun too. Check this if you want to have fun, learn about numbers type, or seeking for [pygame](https://www.pygame.org/) project example. <br/>[Go to repository](https://github.com/LilJohny/NumbersGame)
-* MakeUpMover
+* `MakeUpMover`
   * This project is program, that can copy MakeUp from one image and apply it to other picture. Check this if you want to try it or interested in method, I used. <br/>[Go to repository](https://github.com/LilJohny/MakeUpMover)
-* TwitterMap 
+* `TwitterMap`
   * This project is web-app that shows locations of friends of specified twitter user. I did to learn Python and Twitter api. You are welcome to check it if you are interested in Python, usage of Twitter API, or just want to get cool visualization of your Twitter friends. <br/>[Go to repository](https://github.com/LilJohny/TwitterMap)
-* InkscapeBarrelDistortion
+* `InkscapeBarrelDistortion`
   * This project is extension for [Inkscape](https://inkscape.org) open-source vector graphics editor.This extension can apply barrel distortion to image. It was developed by me when I had internship in Ukrainian Catholic University Machine Learning lab. Check this if you need to apply Barrel distortion on your image or need an example of Inkscape extension source code(Finding one was really a hard thing for me when I was developing my extension) <br/>[Go to repository](https://github.com/ucuapps/InkscapeBarrelDistortion)
 
 Star any of these if you found it useful or interesting. This will improve my mood.☺️
