@@ -10,7 +10,7 @@ my name is Denys Ivanenko, and I am currently a computer science student at Ukra
 ---
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-### - All programming languages I have significant experience in...
+### - All programming languages I have significant experience in:
 
 <p align="center">
 
