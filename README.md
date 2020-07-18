@@ -49,8 +49,6 @@ style="vertical-align:top; margin:4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs_larger.svg" alt="node.js" style="vertical-align:top; margin:4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:4px">
 </p>
 
 ---
