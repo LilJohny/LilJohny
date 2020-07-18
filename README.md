@@ -10,11 +10,13 @@ my name is Denys Ivanenko, and I am currently a computer science student at Ukra
 ---
 
 # - 🌱 I’m currently learning ...
-Now I want to get deeper knowledge in this technologies:
+Now I want to get deeper knowledge in this programming languages:
 - C++
 - TypeScript
 
 And learn Swift and development for Apple devices.
+
+
 ---
 
 ### - All programming languages I have significant experience in:
