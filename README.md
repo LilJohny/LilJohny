@@ -52,8 +52,8 @@ Other big theme I`m really in is Data Science, ML and AI.
   * This project is pretty complex 2d game, that will teach player about different types of numbers. Playing it is fun too. Check this if you want to have fun, learn about numbers type, or seeking for [pygame](https://www.pygame.org/) project example. <br/>[Go to repository](https://github.com/LilJohny/NumbersGame)
 * MakeUpMover
   * This project is program, that can copy MakeUp from one image and apply it to other picture. Check this if you want to try it or interested in method, I used. <br/>[Go to repository](https://github.com/LilJohny/MakeUpMover)
-* TwitterMap [Go to repository](https://github.com/LilJohny/TwitterMap)
-  * This project is web-app that shows locations of friends of specified twitter user. I did to learn Python and Twitter api. You are welcome to check it if you are interested in Python, usage of Twitter API, or just want to get cool visualization of your Twitter friends.
+* TwitterMap 
+  * This project is web-app that shows locations of friends of specified twitter user. I did to learn Python and Twitter api. You are welcome to check it if you are interested in Python, usage of Twitter API, or just want to get cool visualization of your Twitter friends. <br/>[Go to repository](https://github.com/LilJohny/TwitterMap)
 * InkscapeBarrelDistortion
   * This project is extension for [Inkscape](https://inkscape.org) open-source vector graphics editor.This extension can apply barrel distortion to image. It was developed by me when I had internship in Ukrainian Catholic University Machine Learning lab. Check this if you need to apply Barrel distortion on your image or need an example of Inkscape extension source code(Finding one was really a hard thing for me when I was developing my extension) <br/>[Go to repository](https://github.com/ucuapps/InkscapeBarrelDistortion)
 
