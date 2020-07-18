@@ -21,7 +21,6 @@ my name is Denys Ivanenko, and I am currently a computer science student at Ukra
   </a>
 </p>
 
-<hr>
 
 ---
 
