@@ -47,6 +47,7 @@ Other big theme I`m really in is Data Science, ML and AI.
 * TwitterMap [Go to repository](https://github.com/LilJohny/TwitterMap)
 * InkscapeBarrelDistortion [Go to repository](https://github.com/ucuapps/InkscapeBarrelDistortion)
 
+Star any of these if you found it useful. This will improve my mood.☺️
 
 ---
 
