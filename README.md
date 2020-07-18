@@ -40,7 +40,8 @@ Other big theme I`m really in is Data Science, ML and AI.
 * Shorty
   * This project is a program that can shorten any piece of text by selecting the most significant sentences. It provides PyQT UI and looks pretty good and easy to use. If you are interested in TextRank algorithm or PyQt, you are welcome to check it out. <br/> [Go to repository](https://github.com/LilJohny/Shorty)
 * NotebookFanControl
-   * This repository is not a project developed by me. Here I store compiled for Ubuntu18.04 [nbfc](https://github.com/hirschmann/nbfc). This program gives you ability to tune your fans speed in a very precise way. Since I used to switch Ubuntu and .Net versions frequently, it was a headache to compile nbfc every time I have a fresh Ubuntu installed. I found out that the compiled version works also on newer distributions of Ubuntu. Check this if you need to tune fans speed of your laptop, that runs Ubuntu. [Go to repository](https://github.com/LilJohny/NotebookFanControl)
+   * This repository is not a project developed by me. Here I store compiled for Ubuntu18.04 [nbfc](https://github.com/hirschmann/nbfc). This program gives you ability to tune your fans speed in a very precise way. Since I used to switch Ubuntu and .Net versions frequently, it was a headache to compile nbfc every time I have a fresh Ubuntu installed. I found out that the compiled version works also on newer distributions of Ubuntu. Check this if you need to tune fans speed of your laptop, that runs Ubuntu. <br/>
+   [Go to repository](https://github.com/LilJohny/NotebookFanControl)
 * TODO [Go to repository](https://github.com/LilJohny/ucu*todo)
 * Tetris [Go to repository](https://github.com/LilJohny/Tetris)
 * GooglePlayResearch [Go to repository](https://github.com/LilJohny/GooglePlayResearch)
