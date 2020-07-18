@@ -26,8 +26,8 @@ my name is Denys Ivanenko, and I am currently a computer science student at Ukra
 
 ###  🌱 I’m currently learning ...
 Now I want to get deeper knowledge in this programming languages:
-- C++
-- TypeScript
+* C++
+* TypeScript
 
 And learn Swift programming language and development for Apple devices in general.
 Other big theme I`m really in is Data Science, ML and AI.
@@ -35,17 +35,17 @@ Other big theme I`m really in is Data Science, ML and AI.
 ---
 
 ###  🔭 Some of my interesting projects you can find here...
-- HTMLCSS [Go to repository](https://github.com/LilJohny/HTMLCSS)
--- Description
-- Shorty [Go to repository](https://github.com/LilJohny/Shorty)
-- NotebookFanControl [Go to repository](https://github.com/LilJohny/NotebookFanControl)
-- TODO [Go to repository](https://github.com/LilJohny/ucu-todo)
-- Tetris [Go to repository](https://github.com/LilJohny/Tetris)
-- GooglePlayResearch [Go to repository](https://github.com/LilJohny/GooglePlayResearch)
-- NumbersGame [Go to repository](https://github.com/LilJohny/NumbersGame)
-- MakeupMover [Go to repository](https://github.com/LilJohny/MakeUpMover)
-- TwitterMap [Go to repository](https://github.com/LilJohny/TwitterMap)
-- InkscapeBarrelDistortion [Go to repository](https://github.com/ucuapps/InkscapeBarrelDistortion)
+* HTMLCSS [Go to repository](https://github.com/LilJohny/HTMLCSS)
+..* Description
+* Shorty [Go to repository](https://github.com/LilJohny/Shorty)
+* NotebookFanControl [Go to repository](https://github.com/LilJohny/NotebookFanControl)
+* TODO [Go to repository](https://github.com/LilJohny/ucu*todo)
+* Tetris [Go to repository](https://github.com/LilJohny/Tetris)
+* GooglePlayResearch [Go to repository](https://github.com/LilJohny/GooglePlayResearch)
+* NumbersGame [Go to repository](https://github.com/LilJohny/NumbersGame)
+* MakeupMover [Go to repository](https://github.com/LilJohny/MakeUpMover)
+* TwitterMap [Go to repository](https://github.com/LilJohny/TwitterMap)
+* InkscapeBarrelDistortion [Go to repository](https://github.com/ucuapps/InkscapeBarrelDistortion)
 
 
 ---
