@@ -4,6 +4,22 @@ my name is Denys Ivanenko, and I am currently a computer science student at Ukra
 
 ---
 
+---
+### 📢 Find me elsewhere
+<p align="center">
+  <a href="https://www.linkedin.com/in/denis-ivanenko-567ab0176/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>
+
+ <a href="https://www.youtube.com/channel/UCOaw2VmHe3FRadtxbGGvyQA">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+<hr>
+
+---
+
 ### My Github Stats
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=LilJohny&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
