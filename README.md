@@ -9,7 +9,14 @@ my name is Denys Ivanenko, and I am currently a computer science student at Ukra
 
 ---
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+# - 🌱 I’m currently learning ...
+Now I want to get deeper knowledge in this technologies:
+- C++
+- TypeScript
+
+And learn Swift and development for Apple devices.
+---
+
 ### - All programming languages I have significant experience in:
 
 <p align="center">
