@@ -37,8 +37,6 @@ Star any of these if you found it useful or interesting. This will improve my mo
 
 ---
 
----
-
 ### 📢 Find me elsewhere
 <p align="center">
   <a href="https://www.linkedin.com/in/denis-ivanenko-567ab0176/">
@@ -60,6 +58,8 @@ Now I want to get deeper knowledge in this programming languages:
 
 And learn Swift programming language and development for Apple devices in general.<br/>
 Other big theme I`m really in is Data Science, ML and AI.
+
+---
 
 ###  All programming languages I have significant experience in:
 
