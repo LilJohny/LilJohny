@@ -57,7 +57,7 @@ Other big theme I`m really in is Data Science, ML and AI.
 * InkscapeBarrelDistortion
   * This project is extension for [Inkscape](https://inkscape.org) open-source vector graphics editor.This extension can apply barrel distortion to image. It was developed by me when I had internship in Ukrainian Catholic University Machine Learning lab. Check this if you need to apply Barrel distortion on your image or need an example of Inkscape extension source code(Finding one was really a hard thing for me when I was developing my extension) <br/>[Go to repository](https://github.com/ucuapps/InkscapeBarrelDistortion)
 
-Star any of these if you found it useful. This will improve my mood.☺️
+Star any of these if you found it useful or interesting. This will improve my mood.☺️
 
 ---
 
