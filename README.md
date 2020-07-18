@@ -10,30 +10,6 @@ my name is Denys Ivanenko, and I am currently a computer science student at Ukra
 
 ---
 
-### 📢 Find me elsewhere
-<p align="center">
-  <a href="https://www.linkedin.com/in/denis-ivanenko-567ab0176/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
-
- <a href="https://www.youtube.com/channel/UCOaw2VmHe3FRadtxbGGvyQA">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
-  </a>
-</p>
-
-
----
-
-###  🌱 I’m currently learning ...
-Now I want to get deeper knowledge in this programming languages:
-* C++
-* TypeScript
-
-And learn Swift programming language and development for Apple devices in general.<br/>
-Other big theme I`m really in is Data Science, ML and AI.
-
----
-
 ###  🔭 Some of my interesting projects you can find here...
 * HTMLCSS
   * This project is a web-site that tells about how to learn HTML and CSS basics. I did this to learn and practice HTML and CSS. If you are seeking a good example of [11ty](https://www.11ty.dev) project or inspiration for your designs, please, check this out. <br/>[Go to repository](https://github.com/LilJohny/HTMLCSS)
@@ -60,6 +36,30 @@ Other big theme I`m really in is Data Science, ML and AI.
 Star any of these if you found it useful or interesting. This will improve my mood.☺️
 
 ---
+
+---
+
+### 📢 Find me elsewhere
+<p align="center">
+  <a href="https://www.linkedin.com/in/denis-ivanenko-567ab0176/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>
+
+ <a href="https://www.youtube.com/channel/UCOaw2VmHe3FRadtxbGGvyQA">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+
+---
+
+###  🌱 I’m currently learning ...
+Now I want to get deeper knowledge in this programming languages:
+* C++
+* TypeScript
+
+And learn Swift programming language and development for Apple devices in general.<br/>
+Other big theme I`m really in is Data Science, ML and AI.
 
 ###  All programming languages I have significant experience in:
 
