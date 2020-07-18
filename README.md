@@ -9,7 +9,7 @@ my name is Denys Ivanenko, and I am currently a computer science student at Ukra
 
 ---
 
-### - 🌱 I’m currently learning ...
+###  🌱 I’m currently learning ...
 Now I want to get deeper knowledge in this programming languages:
 - C++
 - TypeScript
@@ -19,7 +19,7 @@ And learn Swift programming language and development for Apple devices in genera
 
 ---
 
-### - All programming languages I have significant experience in:
+###  All programming languages I have significant experience in:
 
 <p align="center">
 
@@ -41,7 +41,7 @@ style="vertical-align:top; margin:4px">
 
 --- 
 
-### - All frameworks, libraries and topics I have experience in:
+###  All frameworks, libraries and topics I have experience in:
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="dotnet" style="vertical-align:top; margin:4px">
@@ -62,7 +62,7 @@ style="vertical-align:top; margin:4px">
 
 ---
 
-### - All tools that  I used previously or  using now:
+###  All tools that  I used previously or  using now:
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" 
 style="vertical-align:top; margin:4px">
@@ -81,7 +81,7 @@ style="vertical-align:top; margin:4px">
 
 ---
 
-### - My IDEs:
+###  My IDEs:
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
