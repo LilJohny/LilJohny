@@ -1,5 +1,6 @@
 ### Hi there 👋
-Hi 👋, my name is Denys Ivanenko, and I am currently a computer science student at Ukrainian Catholic University and passionate about everything that is connected with my area of study. I started programming at a very early age, so for me, it is much easier to say in which programming language I have not programmed than to list those in which I programmed. But my top three languages are Python, C++, and Java.
+Hi 👋,<br/>
+my name is Denys Ivanenko, and I am currently a computer science student at Ukrainian Catholic University and passionate about everything that is connected with my area of study. I started programming at a very early age, so for me, it is much easier to say in which programming language I have not programmed than to list those in which I programmed. But my top three languages are Python, C++, and Java.
 
 ---
 
