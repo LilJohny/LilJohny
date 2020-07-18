@@ -4,7 +4,12 @@ my name is Denys Ivanenko, and I am currently a computer science student at Ukra
 
 ---
 
+
+### My Github Stats
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=LilJohny&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
+
 ### 📢 Find me elsewhere
 <p align="center">
   <a href="https://www.linkedin.com/in/denis-ivanenko-567ab0176/">
@@ -17,11 +22,6 @@ my name is Denys Ivanenko, and I am currently a computer science student at Ukra
 </p>
 
 <hr>
-
----
-
-### My Github Stats
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=LilJohny&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
