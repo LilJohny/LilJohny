@@ -12,7 +12,7 @@ Hi 👋, my name is Denys Ivanenko, and I am currently a computer science studen
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
- 
+
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" 
@@ -27,10 +27,12 @@ style="vertical-align:top; margin:4px">
 --- 
 
 ### - All frameworks, libraries and topics I have experience in...
+<p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-
+</p>
 ---
+
 ### - All tools that  I used previously or  using now...
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
