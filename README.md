@@ -3,6 +3,8 @@ Hi 👋, my name is Denys Ivanenko, and I am currently a computer science studen
 ### My Github Stats
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=LilJohny&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 ### - All programming languages I have experience in...
 
 <p align="center">
@@ -18,7 +20,9 @@ Hi 👋, my name is Denys Ivanenko, and I am currently a computer science studen
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
 </p>
 
-### - All tools that  I used previously or using now...
+--- 
+
+### - All tools that  I used previously or am using now...
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker"
