@@ -31,10 +31,12 @@ Now I want to get deeper knowledge in this programming languages:
 
 And learn Swift programming language and development for Apple devices in general.
 Other big theme I`m really in is Data Science, ML and AI.
+
 ---
 
 ###  🔭 Some of my interesting projects you can find here...
 - HTMLCSS [Go to repository](https://github.com/LilJohny/HTMLCSS)
+-- Description
 - Shorty [Go to repository](https://github.com/LilJohny/Shorty)
 - NotebookFanControl [Go to repository](https://github.com/LilJohny/NotebookFanControl)
 - TODO [Go to repository](https://github.com/LilJohny/ucu-todo)
