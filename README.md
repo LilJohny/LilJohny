@@ -14,7 +14,7 @@ Now I want to get deeper knowledge in this programming languages:
 - C++
 - TypeScript
 
-And learn Swift and development for Apple devices.
+And learn Swift programming language and development for Apple devices in general.
 
 
 ---
