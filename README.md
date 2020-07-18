@@ -9,7 +9,7 @@ my name is Denys Ivanenko, and I am currently a computer science student at Ukra
 
 ---
 
-# - 🌱 I’m currently learning ...
+### - 🌱 I’m currently learning ...
 Now I want to get deeper knowledge in this programming languages:
 - C++
 - TypeScript
