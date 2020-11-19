@@ -9,6 +9,9 @@ my name is Denys Ivanenko, and I am currently a computer science student at Ukra
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=LilJohny&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+### Languages staistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilJohny)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ###  🔭 Some of my interesting projects you can find here...
 * `HTMLCSS`
